@@ -6,7 +6,7 @@
 
 ※ 書籍では Ruby ver3.0.0 を使用しているが、参画するプロダクトで ver3.2.2 を使用しているため ver3.2.2 を使用
 
-参考記事 : https://qiita.com/Alex_mht_code/items/d2db2eba17830e36a5f1
+参考記事 : https://qiita.com/Alex_mht_code/items/d2db2eba17830e36a5f1<br>
 .bash_profileの部分だけ以下のようにzshrcに読み替える
 
 <br>
